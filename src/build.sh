@@ -1,4 +1,6 @@
-#! /bin/bash
+#!/bin/bash
+
+set -e
 
 # Cleanup folder
 rm -rf _assets
